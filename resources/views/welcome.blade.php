@@ -410,14 +410,14 @@
                     <h5>Kontak</h5>
                     <ul>
                         <li><i class="bi bi-envelope"></i> support@umkmsales.com</li>
-                        <li><i class="bi bi-telephone"></i> +62 812-3456-7890</li>
-                        <li><i class="bi bi-geo-alt"></i> Jakarta, Indonesia</li>
+                        <li><i class="bi bi-telephone"></i> +62 812-2502-8952</li>
+                        <li><i class="bi bi-geo-alt"></i> Semarang, Indonesia</li>
                     </ul>
                 </div>
             </div>
             <hr class="border-secondary my-4">
             <div class="text-center text-white-50">
-                <p>&copy; 2024 UMKM Sales Management. All rights reserved.</p>
+                <p>&copy; 2025 UMKM Sales Management. All rights reserved.</p>
             </div>
         </div>
     </footer>
